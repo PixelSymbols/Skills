@@ -1,2 +1,7 @@
 # Skills
-This is my set of skill that im learning
+
+| Javascript 	|  	|  	|
+|---	|---	|---	|
+| Node.js 	|  	|  	|
+| Github/Git 	|  	|  	|
+| Python 	|  	|  	|
